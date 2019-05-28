@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fastfood/static/css/main.0f4e07a3.chunk.css",
+    "main.js": "/fastfood/static/js/main.a926117a.chunk.js",
+    "main.js.map": "/fastfood/static/js/main.a926117a.chunk.js.map",
+    "runtime~main.js": "/fastfood/static/js/runtime~main.c185cc8e.js",
+    "runtime~main.js.map": "/fastfood/static/js/runtime~main.c185cc8e.js.map",
+    "static/js/2.bbd8cc3b.chunk.js": "/fastfood/static/js/2.bbd8cc3b.chunk.js",
+    "static/js/2.bbd8cc3b.chunk.js.map": "/fastfood/static/js/2.bbd8cc3b.chunk.js.map",
+    "index.html": "/fastfood/index.html",
+    "precache-manifest.19951cf87cebdcbdaac3cfea723663af.js": "/fastfood/precache-manifest.19951cf87cebdcbdaac3cfea723663af.js",
+    "service-worker.js": "/fastfood/service-worker.js",
+    "static/css/main.0f4e07a3.chunk.css.map": "/fastfood/static/css/main.0f4e07a3.chunk.css.map"
+  }
+}
